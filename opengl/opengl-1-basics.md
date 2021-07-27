@@ -1,4 +1,4 @@
-- # [OpenGl](../opengl/)
+# [<- OpenGl](../opengl/)
 
 ## OpenGl Basics
 This is written for version opengl 3.3. Basic modules required are GLFW and glad.
