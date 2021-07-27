@@ -1,1 +1,1 @@
-# [OpenGl](./opengl/) ->
+# [OpenGl ->](./opengl/)
