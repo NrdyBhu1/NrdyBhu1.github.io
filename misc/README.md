@@ -1,1 +1,1 @@
-# [OpenGl-Basic](./libraries.md)
+# [Libraries](./libraries.md)
