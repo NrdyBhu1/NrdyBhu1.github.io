@@ -12,5 +12,5 @@ as it reduces gpu and cpu usage whereas a 1000 draws uses both the cpu and gpu d
 ### VBO, VAO & IBO
 **VBO**: The VBO is the vertex buffer object which contains the vertices of triangles.  
 **VAO**: The VAO is the vertex attrib object which contains the position, color and differents attributes of a vertex.  
-**IBO**: The IBO is the index buffer object which is responsible for the rendering of each vertex. It contains the sequence in which the vertex should be drawn.  
+**IBO**: The IBO is the index buffer object which is responsible for the rendering of each vertex. It contains the sequence in which the vertices should be drawn.  
 
