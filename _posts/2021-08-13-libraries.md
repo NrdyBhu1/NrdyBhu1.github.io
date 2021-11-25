@@ -6,7 +6,6 @@ tags: Tutorial
 excerpt_separator: <!--more-->
 ---
 
-# Creating libraries in C
 Libraries in C are usually statically linked or dynamically linked.
 <!--more-->
 

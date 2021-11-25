@@ -6,7 +6,6 @@ tags: Tutorial Opengl
 excerpt_separator: <!--more-->
 ---
 
-# OpenGl Renderering
 Opengl renders everything in vertices and triangles.<!--more-->  
 Why triangles? - Cause triangle is the only shape with least number of side and formed with minimum vertices for a polygon.
 
