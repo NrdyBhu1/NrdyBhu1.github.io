@@ -1,23 +1,30 @@
-# [<- Misc](../misc/)
+---
+layout: post
+title: "Creating libraries"
+author: "NrdyBhu1"
+tags: Tutorial
+excerpt_separator: <!--more-->
+---
 
-## Creating libraries in C
+# Creating libraries in C
 Libraries in C are usually statically linked or dynamically linked.
+<!--more-->
 
-### Project structure
+## Project structure
 ```sh
 .
 |-- header.h
 |-- header.c
 `-- main.c
 ```
-### Compiling static librabry
+## Compiling static librabry
 ```sh
 $ gcc -c header.c
 $ ar rcs libheader.a header.o
 $ gcc main.c -o main -L. -lheader
 ```
 
-### Compiling dynamic library
+## Compiling dynamic library
 ```sh
 $ gcc -c -fPIC header.c
 $ gcc header.o -shared -o libheader.so

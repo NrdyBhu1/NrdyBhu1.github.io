@@ -1,0 +1,27 @@
+# Site settings
+title:          Notes 
+description:    "My Public notes about everything"
+baseurl:        "/notes"
+url:            "https://nrdybhu1.github.io"
+
+# Build settings
+markdown:       kramdown
+include:
+  - _pages
+
+# Author
+author:
+  name:         NrdyBhu1
+  url:          https://nrdybhu1.github.io
+
+remote_theme: chesterhow/tale
+
+permalink:    /:year-:month-:day/:title
+paginate:     5
+
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
+
+# Excludes
+exclude: [ Gemfile, Gemfile.lock, tale.gemspec, README.md ]

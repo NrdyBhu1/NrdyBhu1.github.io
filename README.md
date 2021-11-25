@@ -1,2 +1,2 @@
-# [OpenGl ->](./opengl/)
-# [Misc ->](./misc/)
+# notes
+My notes
