@@ -1,8 +1,8 @@
 ---
+layout: post
 title: "Mouse Cursor Follow Tutorial"
-date: "2020-11-03 07:26:47 +0200"
 author: NrdyBhu1
-category: tutorial blog 
+tags: Tutorial
 ---
 
  So today we are going to be making and object follow the mouse cursor in unity. 

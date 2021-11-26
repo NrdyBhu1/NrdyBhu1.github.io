@@ -1,8 +1,8 @@
 ---
+layout: post
 title: "Resources I use"
-date: "2020-11-04 11:18:30 +0200"
 author: NrdyBhu1
-category: blog 
+tags:
 ---
 
 I use a wide variety of ides, tools

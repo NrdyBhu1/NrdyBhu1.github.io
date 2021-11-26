@@ -1,8 +1,8 @@
 ---
+layout: post
 title: "Welcome To My Blog"
-date: "2020-11-02 02:12:52 +0200"
 author: NrdyBhu1
-category: blog 
+tags:
 ---
 
 Hey! After many months of time pass, I have been finally able to create a blogging website with jekyll theme.

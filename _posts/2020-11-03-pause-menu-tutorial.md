@@ -1,8 +1,8 @@
 ---
+layout: post
 title: "Pause Menu Tutorial"
-date: "2020-11-03 07:45:12 +0200"
 author: NrdyBhu1
-category: tutorial blog 
+tags: Tutorial
 ---
 
 So today we are going to be making pause menus in unity. 

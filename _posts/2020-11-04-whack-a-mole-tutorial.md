@@ -1,8 +1,8 @@
 ---
+layout: post
 title: "Whack A Mole Tutorial"
-date: "2020-11-04 03:32:00 +0200"
 author: NrdyBhu1
-category: blog 
+tags:
 ---
 
 {: .note .info}
