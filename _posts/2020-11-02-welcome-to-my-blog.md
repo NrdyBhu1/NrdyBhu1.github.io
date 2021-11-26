@@ -3,6 +3,7 @@ layout: post
 title: "Welcome To My Blog"
 author: NrdyBhu1
 tags:
+sticky: true
 ---
 
 Hey! After many months of time pass, I have been finally able to create a blogging website with jekyll theme.
