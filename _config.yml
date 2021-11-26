@@ -1,7 +1,7 @@
 # Site settings
 title:          NrdyBhu1 
 description:    "My Public notes about everything"
-baseurl:        "/notes"
+baseurl:        "/"
 url:            "https://nrdybhu1.github.io"
 
 # Build settings
