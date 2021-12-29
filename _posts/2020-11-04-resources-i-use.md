@@ -2,7 +2,7 @@
 layout: post
 title: "Resources I use"
 author: NrdyBhu1
-tags:
+tags: 
 ---
 
 I use a wide variety of ides, tools
